@@ -13,7 +13,7 @@ Team-Abhyudaya
  Dhumsapuram Saikrishna Reddy
  Gowtham Kishore Indukuri
  
- 
+ <img src="https://github.com/DSaikrishnareddy/Vidyut-Rakshak-1/blob/master/Reboot%20Kerala%20Hackathon_Poster.jpeg">
 
 # TEAM INTRO:
 
