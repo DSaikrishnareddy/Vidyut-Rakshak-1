@@ -9,10 +9,15 @@ Team-Abhyudaya
 
 # THE TEAM:
  Esarapu Dilip Vignesh
+ 
  Vedhakrishna  Yarasuri
+ 
  Dhumsapuram Saikrishna Reddy
+ 
  Gowtham Kishore Indukuri
+ 
  Gutha Preethi
+ 
  Garlapati Kavya
  
  <img src="https://github.com/DSaikrishnareddy/Vidyut-Rakshak-1/blob/master/Reboot%20Kerala%20Hackathon_Poster.jpeg">
@@ -21,6 +26,8 @@ Team-Abhyudaya
 
 We are team Abhudaya from  Amrita Vishwa Vidyapeetham,Kollam
 currently pursuing  Electronics and Communication Engineering.
+
+<img src="https://github.com/DSaikrishnareddy/Vidyut-Rakshak-1/blob/master/Abhyudaya_RKH_2nd_Runner_Up.jpeg">
 
 # ABOUT DOCUMENTATION:
 
