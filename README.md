@@ -12,6 +12,8 @@ Team-Abhyudaya
  Vedhakrishna  Yarasuri
  Dhumsapuram Saikrishna Reddy
  Gowtham Kishore Indukuri
+ Gutha Preethi
+ Garlapati Kavya
  
  <img src="https://github.com/DSaikrishnareddy/Vidyut-Rakshak-1/blob/master/Reboot%20Kerala%20Hackathon_Poster.jpeg">
 
